@@ -9,7 +9,7 @@ https://hm-cdn.shed.cm/HarmonyOS_Sans_SC_Regular.ttf
     }
     @font-face {
         font-family: 'hm';
-        src: url('https://hm-cdn.shed.cm/HarmonyOS_Sans_Medium.ttf');
+        src: url('https://hm-cdn.shed.cm/HarmonyOS_Sans_SC_Regular.ttf');
           font-weight: normal;
         font-style: normal;
     }  
