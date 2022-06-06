@@ -10,7 +10,7 @@ https://cdn.jsdelivr.com/gh/shedya/hm/HarmonyOS_Sans_SC_Regular.ttf (国内外�
 
 
     *{
-        font-family: 'hm' !importan;
+        font-family: 'hm' !important;
     }
     @font-face {
         font-family: 'hm';
